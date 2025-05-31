@@ -19,7 +19,3 @@
 - Seeking **internship opportunities** in backend or full-stack development.
 - Interested in building applications that integrate **custom AI logic**.
 - Love working on software that interacts with real users and real data.
----
-### 📫 Contact
-- **Email:** hristovstilian94@gmail.com  
-- **LinkedIn:** *(coming soon)*
