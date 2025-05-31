@@ -1,32 +1,20 @@
 <h1 align="center">Hi, I'm Stiliyan Hristov</h1>
 
----
+### About Me
 
-### 👨‍💻 About Me
-
-- Software developer currently seeking an internship.
-- I enjoy backend work and databases. Frontend is fine, but I'm not a designer.
-- Interested in Artificial Intelligence — not just using it, but building with it.
-- I work across multiple languages and always open to learning new tech.
+- I’m a **software developer** seeking an internship, focused on solving real problems with code.
+- I enjoy **working with databases** and backend systems. Frontend is okay, but not too much. I'm not a designer.
+- My interest in **Artificial Intelligence** led me to start learning Python. I care about building software that uses AI, not just using it as a tool.
+- I work across **multiple languages and technologies** and am always open to learning whatever is needed to get the job done.
 
 ---
-
 ### 💻 Tech Stack
 
 - **Languages:** C#, Python, JavaScript, HTML/CSS  
 - **Frameworks:** ASP.NET Core / MVC, Entity Framework Core  
 - **Databases:** PostgreSQL, SQLite, SQL Server  
 - **Tools:** Git, GitHub, REST APIs, OOP, Docker, ML.NET
-
 ---
-
-### 🚧 Projects
-
-**Liora** — Restaurant management app (reservations, orders, reports)  
-**CleanTalk AI** — Forum with AI moderation using ML.NET sentiment analysis
-
----
-
 ### 📫 Contact
 
 - **Email:** hristovstilian94@gmail.com  
