@@ -15,8 +15,11 @@
 - **Databases:** PostgreSQL, SQLite, SQL Server  
 - **Tools:** Git, GitHub, REST APIs, OOP, Docker, ML.NET
 ---
+### 🎯 Goals
+- Seeking **internship opportunities** in backend or full-stack development.
+- Interested in building applications that integrate **custom AI logic**.
+- Love working on software that interacts with real users and real data.
+---
 ### 📫 Contact
-
 - **Email:** hristovstilian94@gmail.com  
-- **GitHub:** [HrSTILL](https://github.com/HrSTILL)  
 - **LinkedIn:** *(coming soon)*
