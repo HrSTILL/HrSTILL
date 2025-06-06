@@ -2,7 +2,7 @@
 
 ### About Me
 
-- I’m a **software developer** seeking an internship, focused on solving real problems with code.
+- I’m a eighteen year old **software developer** seeking an internship, focused on solving real problems with code.
 - I enjoy **working with databases** and backend systems. Frontend is okay, but not too much. I'm not a designer.
 - My interest in **Artificial Intelligence** led me to start learning Python. I care about building software that uses AI, not just using it as a tool.
 - I work across **multiple languages and technologies** and am always open to learning whatever is needed to get the job done.
