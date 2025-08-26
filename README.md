@@ -10,10 +10,11 @@
 ---
 ### 💻 Tech Stack
 
-- **Languages:** C#, Python, JavaScript, HTML/CSS  
+- **Languages:** C#, Python, JavaScript
+- **Markup** HTML/CSS, Tailwind v4
 - **Frameworks:** ASP.NET Core / MVC, Entity Framework Core  
 - **Databases:** PostgreSQL, SQLite, SQL Server  
-- **Tools:** Git, GitHub, REST APIs, OOP, Docker, ML.NET
+- **Tools:** Git, GitHub, REST APIs, OOP, Docker, ML.NET, React, Node.js
 ---
 ### 🎯 Goals
 - Seeking **internship opportunities** in backend or full-stack development.
