@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Stiliyan Hristov</h1>
+<h1 align="center">A Bit About Myself!</h1>
 
 ### About Me
 - I’m an nineteen-years-old software developer seeking an internship, focused on solving real problems with code.
