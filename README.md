@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Stiliyan Hristov</h1>
 
 ### About Me
-- I’m an eighteen-year-old software developer seeking an internship, focused on solving real problems with code.
+- I’m an nineteen-years-old software developer seeking an internship, focused on solving real problems with code.
 - I enjoy working with databases and backend systems, while applying UI/UX principles and JavaScript to build practical, user-friendly websites.
 - My interest in Artificial Intelligence led me to start learning Python to create software that integrates AI in meaningful ways.
 - I work across multiple languages and technologies and am always eager to learn whatever is needed to get the job done.
